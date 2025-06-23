@@ -77,17 +77,18 @@ Following are the test results showing the model predictions on sample images fr
   <img src="https://github.com/Salaar-Saaiem/Garbage-Classification-using-ML/blob/main/Assets/test.jpg" alt="Model Prediction" width="700"/>
 </p
 
-| **True Label** | **Predicted Label** | ✅ |
-|----------------|---------------------|----|
-| metal          | metal               | ✔️ |
-| paper          | paper               | ✔️ |
-| cardboard      | cardboard           | ✔️ |
-| cardboard      | cardboard           | ✔️ |
-| cardboard      | cardboard           | ✔️ |
-| cardboard      | cardboard           | ✔️ |
-| plastic        | plastic             | ✔️ |
-| plastic        | plastic             | ✔️ |
-| glass          | glass               | ✔️ |
+
+|   True Label |    Predicted Label |
+|--------------|--------------------|
+| metal        | metal              |
+| paper        | paper              |
+| cardboard    | cardboard          |
+| cardboard    | cardboard          |
+| cardboard    | cardboard          |
+| cardboard    | cardboard          |
+| plastic      | plastic            |
+| plastic      | plastic            |
+| glass        | glass              |
 
 
 Model used: `best_model_finetuned224.keras`  
