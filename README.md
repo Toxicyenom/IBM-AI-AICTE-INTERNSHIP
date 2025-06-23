@@ -108,3 +108,7 @@ Following are the test results showing the model predictions on sample images fr
 
 
 ---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
