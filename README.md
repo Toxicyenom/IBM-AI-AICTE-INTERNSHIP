@@ -109,6 +109,6 @@ Following are the test results showing the model predictions on sample images fr
 
 ---
 
-## 📄 License
+## 📄 Ownership & License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is the intellectual property of [Saaiem Salaar](https://www.linkedin.com/in/salaarsaaiem525) and is licensed under the [MIT License](LICENSE). This means you are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software for personal or commercial purposes, provided that proper credit is given and the original license and copyright notice are included in all copies or substantial portions of the software. The software is provided "as is", without any warranty of any kind, express or implied, and the author is not liable for any claims, damages, or other liabilities arising from its use.
