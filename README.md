@@ -74,7 +74,7 @@ The confusion matrix below summarizes the model’s performance on the test set:
 Following are the test results showing the model predictions on sample images from the test dataset. All predictions below are correct, reflecting the model's high accuracy and generalization capability across multiple garbage classes:
 
 <p align="center">
-  <img src="https://github.com/Salaar-Saaiem/Garbage-Classification-using-ML/blob/main/Assets/test%20Diagram.jpg?raw=true" alt="Model Prediction" width="700"/>
+  <img src="https://github.com/Salaar-Saaiem/Garbage-Classification-using-ML/blob/main/Assets/test.jpg" alt="Model Prediction" width="700"/>
 </p
 
 | **True Label** | **Predicted Label** | ✅ |
