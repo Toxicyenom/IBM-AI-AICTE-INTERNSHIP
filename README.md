@@ -43,33 +43,39 @@ The visual above represents the complete training and evaluation pipeline. It us
 ---
 ## 📊 Model Evaluation
 
-### ✅ Accuracy & Loss Curves
+### Accuracy & Loss Curves
 
 These graphs show how the model improved during training:
 
-![Accuracy and Loss Curves](https://raw.githubusercontent.com/Salaar-Saaiem/Garbage-Classification-using-ML/main/assets/accuracy_loss.jpg)
+<p align="center">
+  <img src="https://github.com/Salaar-Saaiem/Garbage-Classification-using-ML/blob/main/Assets/accuracy_loss%20Diagram.jpg?raw=true" alt="Accuracy & Loss" width="700"/>
+</p
 
 - **Left (Accuracy):** Training accuracy steadily improves and validation accuracy stabilizes above **95%**, indicating effective learning and generalization.
 - **Right (Loss):** Both training and validation loss decrease rapidly and flatten out, showing that the model is converging without overfitting.
 
 ---
 
-### 📉 Confusion Matrix
+### Confusion Matrix
 
 The confusion matrix below summarizes the model’s performance on the test set:
 
-![Confusion Matrix](https://raw.githubusercontent.com/Salaar-Saaiem/Garbage-Classification-using-ML/main/assets/confusion_matrix.jpg)
+<p align="center">
+  <img src="https://github.com/Salaar-Saaiem/Garbage-Classification-using-ML/blob/main/Assets/confusion_matrix%20Diagram.jpg?raw=true" alt="Confusion Matrix" width="700"/>
+</p
 
 - High diagonal values (true positives) indicate strong classification accuracy across all six categories: **cardboard, glass, metal, paper, plastic, trash**.
 - Minimal confusion is observed between similar classes (e.g., glass and metal).
 - Especially strong results for **paper** and **plastic**, with 53 and 46 correct predictions respectively.
 
 ---
-## 🧪 Model Predictions 
+### Model Predictions 
 
 Following are the test results showing the model predictions on sample images from the test dataset. All predictions below are correct, reflecting the model's high accuracy and generalization capability across multiple garbage classes:
 
-![Model Prediction](https://raw.githubusercontent.com/Salaar-Saaiem/Garbage-Classification-using-ML/main/assets/test.jpg)
+<p align="center">
+  <img src="https://github.com/Salaar-Saaiem/Garbage-Classification-using-ML/blob/main/Assets/test%20Diagram.jpg?raw=true" alt="Model Prediction" width="700"/>
+</p
 
 | **True Label** | **Predicted Label** | ✅ |
 |----------------|---------------------|----|
