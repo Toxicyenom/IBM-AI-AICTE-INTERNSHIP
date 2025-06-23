@@ -78,21 +78,6 @@ Following are the test results showing the model predictions on sample images fr
 </p
 
 
-|   True Label |    Predicted Label |
-|--------------|--------------------|
-| metal        | metal              |
-| paper        | paper              |
-| cardboard    | cardboard          |
-| cardboard    | cardboard          |
-| cardboard    | cardboard          |
-| cardboard    | cardboard          |
-| plastic      | plastic            |
-| plastic      | plastic            |
-| glass        | glass              |
-
-
-Model used: `best_model_finetuned224.keras`  
-Input shape: `224x224`  
 ---
 
 ## 📂 Target Classes
