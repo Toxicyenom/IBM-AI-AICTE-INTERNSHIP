@@ -2,13 +2,22 @@
 
 A deep learning project that classifies waste images into 6 recyclable categories using a hybrid CNN model built by fine-tuning EfficientNetV2B2 with custom Convolutional Neural Network layers. The project includes a web-based interface using Gradio with support for image upload and real-time webcam capture.
 
-<!--## Live Demo
+## 📂 Target Classes
+
+- 📦 Cardboard  
+- 🧪 Glass  
+- ⚙️ Metal  
+- 📄 Paper  
+- 🧴 Plastic  
+- 🚮 Trash 
+
+## Live Demo
 
 Try the project directly on Hugging Face Spaces without downloading anything:
 
 [![Hugging Face Space](https://img.shields.io/badge/HuggingFace-Demo-blue?logo=huggingface)](https://huggingface.co/spaces/Salaar-Saaiem/Ai-Based_Garbage_Classification_using_ML)
 
--->
+---
 
 ## Features
 
@@ -75,19 +84,8 @@ Following are the test results showing the model predictions on sample images fr
 
 <p align="center">
   <img src="https://github.com/Salaar-Saaiem/Garbage-Classification-using-ML/blob/main/Assets/test.jpg" alt="Model Prediction" width="700"/>
-</p
+</p>
 
-
----
-
-## 📂 Target Classes
-
-- 📦 Cardboard  
-- 🧪 Glass  
-- ⚙️ Metal  
-- 📄 Paper  
-- 🧴 Plastic  
-- 🚮 Trash  
 
 ---
 
