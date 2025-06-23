@@ -41,6 +41,52 @@ The visual above represents the complete training and evaluation pipeline. It us
 </p>
 
 ---
+## 📊 Model Evaluation
+
+### ✅ Accuracy & Loss Curves
+
+These graphs show how the model improved during training:
+
+![Accuracy and Loss Curves](https://raw.githubusercontent.com/Salaar-Saaiem/Garbage-Classification-using-ML/main/assets/accuracy_loss.jpg)
+
+- **Left (Accuracy):** Training accuracy steadily improves and validation accuracy stabilizes above **95%**, indicating effective learning and generalization.
+- **Right (Loss):** Both training and validation loss decrease rapidly and flatten out, showing that the model is converging without overfitting.
+
+---
+
+### 📉 Confusion Matrix
+
+The confusion matrix below summarizes the model’s performance on the test set:
+
+![Confusion Matrix](https://raw.githubusercontent.com/Salaar-Saaiem/Garbage-Classification-using-ML/main/assets/confusion_matrix.jpg)
+
+- High diagonal values (true positives) indicate strong classification accuracy across all six categories: **cardboard, glass, metal, paper, plastic, trash**.
+- Minimal confusion is observed between similar classes (e.g., glass and metal).
+- Especially strong results for **paper** and **plastic**, with 53 and 46 correct predictions respectively.
+
+---
+## 🧪 Model Predictions 
+
+Following are the test results showing the model predictions on sample images from the test dataset. All predictions below are correct, reflecting the model's high accuracy and generalization capability across multiple garbage classes:
+
+![Model Prediction](https://raw.githubusercontent.com/Salaar-Saaiem/Garbage-Classification-using-ML/main/assets/test.jpg)
+
+| **True Label** | **Predicted Label** | ✅ |
+|----------------|---------------------|----|
+| metal          | metal               | ✔️ |
+| paper          | paper               | ✔️ |
+| cardboard      | cardboard           | ✔️ |
+| cardboard      | cardboard           | ✔️ |
+| cardboard      | cardboard           | ✔️ |
+| cardboard      | cardboard           | ✔️ |
+| plastic        | plastic             | ✔️ |
+| plastic        | plastic             | ✔️ |
+| glass          | glass               | ✔️ |
+
+
+Model used: `best_model_finetuned224.keras`  
+Input shape: `224x224`  
+---
 
 ## 📂 Target Classes
 
@@ -52,6 +98,7 @@ The visual above represents the complete training and evaluation pipeline. It us
 - 🚮 Trash  
 
 ---
+
 
 ## Tech Stack
 
