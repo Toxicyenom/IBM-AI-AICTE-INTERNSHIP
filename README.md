@@ -87,6 +87,14 @@ Following are the test results showing the model predictions on sample images fr
   <img src="https://github.com/Salaar-Saaiem/Garbage-Classification-using-ML/blob/main/Assets/Testing.png" alt="Model Prediction" width="700"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/Salaar-Saaiem/Garbage-Classification-using-ML/blob/main/Assets/Testing2.png" alt="Model Prediction" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Salaar-Saaiem/Garbage-Classification-using-ML/blob/main/Assets/Testing3.png" alt="Model Prediction" width="700"/>
+</p>
+
 
 ---
 
