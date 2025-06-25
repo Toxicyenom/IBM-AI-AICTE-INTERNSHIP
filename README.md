@@ -58,7 +58,7 @@ The visual above represents the complete training and evaluation pipeline. It us
 These graphs show how the model improved during training:
 
 <p align="center">
-  <img src="https://github.com/Salaar-Saaiem/Garbage-Classification-using-ML/blob/main/Assets/accuracy_loss.jpg" alt="Accuracy & Loss" width="700"/>
+  <img src="https://github.com/Salaar-Saaiem/Garbage-Classification-using-ML/blob/main/Assets/Performance.png" alt="Accuracy & Loss" width="700"/>
 </p
 
 - **Left (Accuracy):** Training accuracy steadily improves and validation accuracy stabilizes above **95%**, indicating effective learning and generalization.
@@ -71,7 +71,7 @@ These graphs show how the model improved during training:
 The confusion matrix below summarizes the model’s performance on the test set:
 
 <p align="center">
-  <img src="https://github.com/Salaar-Saaiem/Garbage-Classification-using-ML/blob/main/Assets/confusion_matrix.jpg" alt="Confusion Matrix" width="700"/>
+  <img src="https://github.com/Salaar-Saaiem/Garbage-Classification-using-ML/blob/main/Assets/Confusion Matrix.png" alt="Confusion Matrix" width="700"/>
 </p
 
 - High diagonal values (true positives) indicate strong classification accuracy across all six categories: **cardboard, glass, metal, paper, plastic, trash**.
@@ -84,7 +84,7 @@ The confusion matrix below summarizes the model’s performance on the test set:
 Following are the test results showing the model predictions on sample images from the test dataset. All predictions below are correct, reflecting the model's high accuracy and generalization capability across multiple garbage classes:
 
 <p align="center">
-  <img src="https://github.com/Salaar-Saaiem/Garbage-Classification-using-ML/blob/main/Assets/test.jpg" alt="Model Prediction" width="700"/>
+  <img src="https://github.com/Salaar-Saaiem/Garbage-Classification-using-ML/blob/main/Assets/Testing.png" alt="Model Prediction" width="700"/>
 </p>
 
 
