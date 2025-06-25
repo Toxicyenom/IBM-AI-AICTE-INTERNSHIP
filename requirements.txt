@@ -1,4 +1,7 @@
-gradio
 tensorflow
 numpy
-python
+matplotlib
+seaborn
+scikit-learn
+opencv-python
+gradio
