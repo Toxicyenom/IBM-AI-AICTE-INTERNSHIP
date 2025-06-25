@@ -38,7 +38,7 @@ Try the project directly on Hugging Face Spaces without downloading anything:
 ## ⚙️ Model Architecture 
 
 <p align="center">
-  <img src="https://github.com/Salaar-Saaiem/Garbage-Classification-using-ML/blob/main/Assets/Architecture%20Diagram.png?raw=true" alt="Model Architecture" width="700"/>
+  <img src="https://github.com/Salaar-Saaiem/Garbage-Classification-using-ML/blob/main/Assets/Architecture Diagram.png" alt="Accuracy & Loss" width="700"/>
 </p>
 <p>
 The visual above represents the complete training and evaluation pipeline. It uses EfficientNetV2B2 as a feature extractor, followed by custom CNN layers. The model is initially trained with a frozen base, then fine-tuned, and finally evaluated on multiple metrics like accuracy, loss curves, and confusion matrix.
