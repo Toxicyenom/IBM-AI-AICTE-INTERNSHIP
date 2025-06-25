@@ -1,0 +1,23 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="Page-1" id="J8rhuQuKwZIf5MfzZHsA">
+    <mxGraphModel dx="1489" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="BqGXQ3jaE-WeWTm1t0Nd-3" value="BG" parent="0" />
+        <mxCell id="BqGXQ3jaE-WeWTm1t0Nd-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BqGXQ3jaE-WeWTm1t0Nd-3">
+          <mxGeometry x="80" y="100" width="1000" height="870" as="geometry" />
+        </mxCell>
+        <mxCell id="1" value="FRONT" parent="0" />
+        <mxCell id="BqGXQ3jaE-WeWTm1t0Nd-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://raw.githubusercontent.com/Salaar-Saaiem/Garbage-Classification-using-ML/refs/heads/main/Assets/Confusion%20Matrix.png;" vertex="1" parent="1">
+          <mxGeometry x="120" y="158" width="917" height="784" as="geometry" />
+        </mxCell>
+        <mxCell id="BqGXQ3jaE-WeWTm1t0Nd-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.frame;dx=20;whiteSpace=wrap;fillColor=#1C87FF;gradientColor=#6600CC;" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="1010" height="880" as="geometry" />
+        </mxCell>
+        <mxCell id="BqGXQ3jaE-WeWTm1t0Nd-5" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 20px; color: rgb(213, 232, 212);&quot;&gt;@Salaar-Saaiem&lt;/font&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="540" width="240" height="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
